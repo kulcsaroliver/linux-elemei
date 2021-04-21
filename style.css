@@ -1,0 +1,44 @@
+html {
+    height: 100%;
+}
+#outer-wrapper {
+    margin: 0px auto;
+    max-width: 670px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#margin-wrapper {
+    width: 220px;
+    float: right;
+}
+#main-wrapper {
+    width: 410px;
+    float: left;
+}
+
+h1 {
+    font-size: 32pt;
+    color: #666666;
+}
+h2 {
+    font-size: 16pt;
+    color: #999999;
+}
+h3 {
+    font-size: 15pt;
+    color: #CC6600;
+}
+
+#header {
+    border-style: solid;
+    border-width: 1px;
+    color: gray;
+    text-align: center;
+    margin: 5px;
+}
+
+#sidebar-wrapper {
+    width: 215px;
+    float:right;
+    padding-top: 16px;
+}
